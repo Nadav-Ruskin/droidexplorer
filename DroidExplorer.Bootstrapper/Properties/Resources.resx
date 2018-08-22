@@ -230,7 +230,7 @@
     <value>Android SDK Path:</value>
   </data>
   <data name="SelectSDKInfoMessage" xml:space="preserve">
-    <value>SelectAandroid SDK directory for Droid Explorer to use.</value>
+    <value>Select Android SDK directory for Droid Explorer to use.</value>
   </data>
   <data name="SelectSDKRootTitle" xml:space="preserve">
     <value>Select Android SDK root</value>
